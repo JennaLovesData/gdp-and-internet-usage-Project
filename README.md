@@ -1,6 +1,5 @@
-## A Guided Exploration of UN Data (Gross Domestic Product and Internet Usage)
+## :world_map:	 A Guided Exploration of UN Data :world_map:	
 
-## Hint:
 Go to the documentation https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_csv.html look at the nrows argument.
 
 1. Create a `data` folder in your local project repository.  
